@@ -11,6 +11,5 @@ public class Beispielprojekt {
     {
         System.out.println("Thomas");
         
-        System.out.println("Test");
     }
 }
