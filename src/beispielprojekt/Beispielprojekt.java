@@ -10,6 +10,16 @@ public class Beispielprojekt {
     public void mcBoumen(){
         System.out.println("McBoumenXD");
     }
+    
+    public void lisaPaier()
+    {
+        System.out.println("LisaPaier");
+    }
+    
+    public void marinaWeber()
+    {
+        System.out.println("MarinaWeber");
+    }
 
 
 
