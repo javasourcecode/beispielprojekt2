@@ -2,13 +2,17 @@ package beispielprojekt;
 
 public class Beispielprojekt {
 
-    public static main(String[] args) {
+    public static void main(Strin[] args) {
         System.out.println("DEEERE");
     }
 
+    public void thomas()
+    {
+        System.out.println("Thomas");
+    }
 
     public void mcBoumen(){
-        System.out.println("McBoumenXD");
+        System.out.println("McBoumen");
     }
     
     public void lisaPaier()
@@ -20,7 +24,5 @@ public class Beispielprojekt {
     {
         System.out.println("MarinaWeber");
     }
-
-
 
 }
