@@ -2,7 +2,7 @@ package beispielprojekt;
 
 public class Beispielprojekt {
 
-    public static void main(Strin[] args) {
+    public static main(String[] args) {
         System.out.println("DEEERE");
     }
 
