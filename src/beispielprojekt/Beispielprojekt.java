@@ -10,4 +10,5 @@ public class Beispielprojekt {
     public void mcBoumen(){
         System.out.println("McBoumen");
     }
+
 }
