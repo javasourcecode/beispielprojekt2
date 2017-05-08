@@ -3,13 +3,26 @@ package beispielprojekt;
 public class Beispielprojekt {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("DEEERE");
     }
-    
-    
-    public void EthanMadBurray()
+
+    public void thomas()
     {
         System.out.println("Thomas");
-        
     }
+
+    public void mcBoumen(){
+        System.out.println("McBoumen");
+    }
+    
+    public void lisaPaier()
+    {
+        System.out.println("LisaPaier");
+    }
+    
+    public void marinaWeber()
+    {
+        System.out.println("MarinaWeber");
+    }
+
 }
