@@ -10,5 +10,7 @@ public class Beispielprojekt {
     public void EthanMadBurray()
     {
         System.out.println("Thomas");
+        
+        System.out.println("Test");
     }
 }
