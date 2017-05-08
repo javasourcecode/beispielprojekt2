@@ -6,6 +6,10 @@ public class Beispielprojekt {
         System.out.println("DEEERE");
     }
 
+    public void thomas()
+    {
+        System.out.println("Thomas");
+    }
 
     public void mcBoumen(){
         System.out.println("McBoumen");
