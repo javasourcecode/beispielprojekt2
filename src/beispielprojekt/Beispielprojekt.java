@@ -8,9 +8,9 @@ public class Beispielprojekt {
 
 
     public void mcBoumen(){
-        System.out.println("McBoumen");
+        System.out.println("McBoumenXD");
     }
 
-    
+
 
 }
