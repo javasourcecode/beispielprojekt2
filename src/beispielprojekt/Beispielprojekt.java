@@ -25,4 +25,12 @@ public class Beispielprojekt {
         System.out.println("MarinaWeber");
     }
 
+
+}
+
+public class OuterClass {
+    private OuterClass()
+    {
+
+    }
 }
